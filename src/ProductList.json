@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Havana Special",
+    "size": "Small",
+    "price": 500,
+    "image": "/images/pizza1.png"
+  },
+  {
+    "id": 2,
+    "name": "Veg Pizza",
+    "size": "Medium",
+    "price": 700,
+    "image": "/images/pizza2.png"
+  },
+  {
+    "id": 3,
+    "name": "Rice Premiar",
+    "size": "Large",
+    "price": 1000,
+    "image": "/images/pizza3.png"
+  },
+  {
+    "id": 4,
+    "name": "Carbonara",
+    "size": "Medium",
+    "price": 300,
+    "image": "/images/pizza4.png"
+  },
+  {
+    "id": 5,
+    "name": "chicken Premiar",
+    "size": "Small",
+    "price": 500,
+    "image": "/images/pizza5.png"
+  },
+  {
+    "id": 6,
+    "name": "MIX BBQ",
+    "size": "Large",
+    "price": 800,
+    "image": "/images/pizza6.png"
+  },
+  {
+    "id": 7,
+    "name": "Rice Premiar",
+    "size": "Medium",
+    "price": 700,
+    "image": "/images/pizza3.png"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Mashroom",
+    "size": "Small",
+    "price": 300,
+    "image": "/images/pizza1.png"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Premiar",
+    "size": "Large",
+    "price": 1200,
+    "image": "/images/pizza5.png"
+  },
+  {
+    "id": 10,
+    "name": "Carbonara",
+    "size": "Small",
+    "price": 500,
+    "image": "/images/pizza4.png"
+  }
+]
